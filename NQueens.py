@@ -1,13 +1,5 @@
 ##-Avantika Poddar-73131-
-
-
-##Mariam Tanzeel-61915-
-
-
-##Shatha Abduh-66003-
-
-
-##Mohammed AlZaabi-65549
+##AlZaabi
 
 import constraint
 from time import perf_counter
