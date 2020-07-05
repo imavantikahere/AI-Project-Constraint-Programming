@@ -2,16 +2,6 @@
 
 ##-Avantika Poddar-73131-
 
-
-
-##Mariam Tanzeel-61915-
-
-
-
-##Shatha Abduh-66003-
-
-
-##Mohammed AlZaabi-65549
 import constraint
 import string
 
